@@ -1,2 +1,2 @@
-# exploratory-data-analysis-project
+# EDA-project
 Exploratory Data Analysis Project using MySQL
